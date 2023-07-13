@@ -1,0 +1,7 @@
+{'neg': 0.01, 'neu': 0.811, 'pos': 0.179, 'compound': 0.9975}
+This output is a dictionary with sentiment scores:
+
+'neg' is the negativity score
+'neu' is the neutrality score
+'pos' is the positivity score
+'compound' is the compound score, which is a single metric that calculates the cumulative sentiment of the entire piece of text.
